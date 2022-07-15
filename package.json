@@ -3,7 +3,7 @@
   "name": "up-accounts",
   "title": "up-accounts",
   "description": "View your Up bank account information:\n  - account name\n  - balance\n  - recent transactions",
-  "icon": "command-icon.png",
+  "icon": "up-logo.png",
   "author": "smcassar",
   "categories": [
     "Finance"
